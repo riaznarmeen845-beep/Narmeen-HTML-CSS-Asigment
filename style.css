@@ -1,0 +1,40 @@
+#header {
+    color: darkblue;
+    text-align: center;
+    font-size: 36px;
+}
+
+.title {
+    color: green;
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    color: black;
+}
+
+h1, h2 {
+    font-family: Arial;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+img {
+    border: 3px solid black;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+.highlight {
+    color: purple;
+    font-weight: bold;
+}
